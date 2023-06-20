@@ -1,0 +1,22 @@
+
+.blocks {
+  margin: 0 148px 92px;
+}
+
+@media screen and (max-width: 1025px) {
+  .blocks {
+    margin: 0 48px 92px;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .blocks {
+    margin: 0 0 88px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .blocks {
+    margin: 0 0 64px;
+  }
+}

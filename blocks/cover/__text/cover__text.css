@@ -1,0 +1,16 @@
+.cover__text {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Inter", Arial, sans-serif;
+  
+  grid-row: 1;
+  grid-column: 1;
+
+}
+.cover__text:hover ~ .cover__overlay {
+  opacity: 0.8;
+}

@@ -1,0 +1,9 @@
+@media screen and (max-width: 720px) {
+  .footer__column-list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 288px;
+  }
+}

@@ -1,0 +1,28 @@
+.header__lang-link {
+  margin: auto 18px 0 0;
+
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  /* identical to box height, or 117% */
+
+  text-align: right;
+  text-decoration: none;
+
+  color: #fff;
+}
+.header__lang-link:last-of-type {
+  margin-right: 0;
+}
+.header__lang-link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 600px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

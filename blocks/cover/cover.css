@@ -1,0 +1,34 @@
+
+.cover {
+  margin: 0 auto 92px;
+  max-width: 1184px;
+  min-height: 740px;
+
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+
+  align-items: center;
+  justify-items: center;
+  font-family: Inter, Arial, sans-serif;
+}
+
+@media screen and (max-width: 1025px) {
+  .cover {
+    min-height: 640px;
+  }
+}
+@media screen and (max-width: 769px) {
+  .cover {
+    margin: 0 auto 88px;
+    width: 100%;
+    min-height: 480px;
+  }
+}
+@media screen and (max-width: 321px) {
+  .cover {
+    margin: 0 auto 64px;
+    width: 100%;
+    min-height: 200px;
+  }
+}
