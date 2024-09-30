@@ -9,7 +9,8 @@
   font-family: Inter, Arial, sans-serif;
 }
 
-@media screen and (max-width: 769px) {
+/* 769px */
+@media screen and (max-width: 1400px) {
   .footer {
     margin: 0 24px 0;
   }
