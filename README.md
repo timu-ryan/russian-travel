@@ -10,6 +10,6 @@
 
 Gafarov Timur - tg: [@timuryanst](https://t.me/timuryanst) - timu.ryanst@gmail.com
 
-Project Link: [https://github.com/timu-ryan/russian-travel](https://github.com/timu-ryan/russian-travely)
+Project Link: [https://github.com/timu-ryan/russian-travel](https://github.com/timu-ryan/russian-travel)
 
 GitHub Pages: [https://timu-ryan.github.io/russian-travel/](https://timu-ryan.github.io/russian-travel/)
