@@ -1,26 +1,15 @@
 # Проект: Путешествие по России
+Проект о путешествии по России. Сайт вкратце рассказывает об интересных местах страны и дает ссылки на материалы для более детального изучения.
 
-## Ссылка на сайт
-https://timu-ryan.github.io/russian-travel/
+Работа позволила изучить и закрепить следующие навыки:
+- адаптивная верстка
+- grid layout
+- media-запросы
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Интро**
+Gafarov Timur - tg: [@timuryanst](https://t.me/timuryanst) - timu.ryanst@gmail.com
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+Project Link: [https://github.com/timu-ryan/russian-travel](https://github.com/timu-ryan/russian-travely)
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+GitHub Pages: [https://timu-ryan.github.io/russian-travel/](https://timu-ryan.github.io/russian-travel/)
